@@ -1,7 +1,7 @@
 # Hello, I'm Jehad Hamayel! 👋
 
-![Jehad Hamayel](![image](https://github.com/JehadHamayel/JehadHamayel/assets/156844480/8d9dbe8a-3337-4333-bfe5-6181ac928a32)
-)
+![Jehad Hamayel](https://github.com/JehadHamayel/JehadHamayel/assets/156844480/8d9dbe8a-3337-4333-bfe5-6181ac928a32)
+
 
 ## 🔧 Technologies & Tools
 
