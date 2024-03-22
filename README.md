@@ -41,3 +41,8 @@ I'm currently focused on improving my skills in:
 - Facebook: [Jehad Hamayel](https://www.facebook.com/Jehad.F.Hamayel)
 
 Feel free to reach out, and let's collaborate on something exciting! 😊
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
