@@ -33,7 +33,6 @@ I'm currently focused on improving my skills in:
 
 ## 📊 Most Used Languages
 
-![Jehad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JehadHamayel&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
