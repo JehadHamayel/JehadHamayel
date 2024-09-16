@@ -3,7 +3,10 @@
 ![Jehad Hamayel](https://github.com/JehadHamayel/JehadHamayel/assets/156844480/8d9dbe8a-3337-4333-bfe5-6181ac928a32)
 
 
-## 🔧 Technologies & Tools
+## 🔧 Framework, Technologies & Tools
+
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+- ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white)
 
 - <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
