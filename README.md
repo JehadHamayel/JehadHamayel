@@ -5,16 +5,13 @@
 
 ## 🔧 Technologies & Tools
 
-Here are some of the technologies and tools I'm familiar with:
-
-- Programming Languages: 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell_Script-121D33?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- Hardware: 
   ![Verilog](https://img.shields.io/badge/Verilog-4285F4?style=for-the-badge&logoColor=white)
-- Databases:
+  ![Mobile Apps Development](https://img.shields.io/badge/Mobile_Apps_Development-3DDC84?style=for-the-badge&logo=react&logoColor=white)
+
   <p align="left">  
              <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -23,7 +20,6 @@ Here are some of the technologies and tools I'm familiar with:
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
               </a>
    
-- Tools:
   <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -45,7 +41,6 @@ I'm currently focused on improving my skills in:
 
 - ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white) 
 - ![Web Development](https://img.shields.io/badge/Web_Development-0078D4?style=for-the-badge&logo=html5&logoColor=white)
-- ![Mobile Apps Development](https://img.shields.io/badge/Mobile_Apps_Development-3DDC84?style=for-the-badge&logo=react&logoColor=white)
 
 ## ⭐️ GitHub Stats
 
