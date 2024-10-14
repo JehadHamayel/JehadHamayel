@@ -1,6 +1,6 @@
 # Hello, I'm Jehad Hamayel! 👋
 
-![Jehad Hamayel](https://github.com/JehadHamayel/JehadHamayel/assets/156844480/8d9dbe8a-3337-4333-bfe5-6181ac928a32)
+![Jehad Hamayel](https://avatars.githubusercontent.com/u/156844480?s=400&u=1b7cc5006b196f47b5fa2c978e261d8e86f8f1dd&v=4)
 
 
 ## 🔧 Framework, Technologies & Tools
